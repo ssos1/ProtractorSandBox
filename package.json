@@ -1,8 +1,8 @@
 {
-  "name": "startit-movie-finder",
+  "name": "finder",
   "version": "0.0.1",
   "private": true,
-  "description": "Demonstration project for students. Feburary 16",
+  "description": "Sandbox",
   "scripts": {
     "postinstall": "webdriver-manager update --gecko=false --standalone=false",
     "test": "protractor ./jasminejs/protractor.conf.js --directConnect=true",
